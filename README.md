@@ -1,5 +1,6 @@
 # Birds vs Drones Classification App
 
+![Birds vs Drones App Screenshot](https://www.researchgate.net/publication/378298308/figure/fig1/AS:11431281298502132@1734426153626/A-selection-of-bird-and-drone-images-from-the-collected-twofold-dataset.jpg)
 ## Overview
 
 The **Birds vs Drones Classification** app is a Streamlit-based web application that leverages a pre-trained VGG16 model to classify images as either **Birds** or **Drones**. By using advanced computer vision techniques, this app can accurately differentiate between birds and drones, offering users a straightforward way to upload images and receive predictions.
